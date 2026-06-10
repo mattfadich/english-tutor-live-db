@@ -1,0 +1,42 @@
+{
+  "ok": true,
+  "database_name": "English Tutor AI",
+  "last_updated": "2026-06-09T04:26:46.915727Z",
+  "source": "English_Tutor_AI_Database.xlsx",
+  "profile": {
+    "ProfileID": "PROFILE-001",
+    "LearnerLabel": "learner",
+    "Current_CEFR_Level": "Needs Assessment",
+    "Overall_Progress_Summary": "Initial profile. English ability should be assessed through real interaction before assigning a stable CEFR level.",
+    "FullAssessment": "",
+    "Current_Strengths": "",
+    "Recurring_Issues": "",
+    "Next_Grammar_Target": "",
+    "Next_Vocab_Target": "Daily life and independence vocabulary",
+    "Next_Pronunciation_Target": "Accent understandability and natural rhythm",
+    "Next_ListeningSpeaking_Target": "Seattle daily-life conversation and listening comprehension",
+    "Preferred_Study_Mode": "Conversational practice",
+    "Correction_Preference": "Conversational",
+    "Explanation_Language_Preference": "Mixed Chinese/English, more English as comfortable",
+    "Voice_Mode_Preference": "Speaking/listening practice with accent and understandability feedback",
+    "Last_Assessment_Date": "",
+    "Next_Assessment_Due": "",
+    "Last_Quiz_Score": "",
+    "Last_Updated": "",
+    "Notes": "Public outputs should use generic learner labels where possible."
+  },
+  "recent_sessions": [],
+  "vocabulary": [],
+  "grammar": [],
+  "pronunciation": [],
+  "listening_speaking": [],
+  "assessments": [],
+  "review_targets": [],
+  "metadata": {
+    "publisher": "Codex",
+    "source_file": "English_Tutor_AI_Database.xlsx",
+    "source_file_id": "",
+    "github_repo": "mattfadich/english-tutor-live-db",
+    "json_url": "https://mattfadich.github.io/english-tutor-live-db/tutor-database.json"
+  }
+}
