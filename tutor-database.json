@@ -1,1 +1,55 @@
-{"ok":true,"database_name":"English Tutor AI","last_updated":"2026-06-10T18:26:55Z","source":"English_Tutor_AI_Database.xlsx","profile":{"ProfileID":"PROFILE-001","LearnerLabel":"learner","Current_CEFR_Level":"Needs Assessment","Overall_Progress_Summary":"Initial profile. English ability should be assessed through real interaction before assigning a stable CEFR level.","Next_Vocab_Target":"Daily life and independence vocabulary","Next_Pronunciation_Target":"Accent understandability and natural rhythm","Next_ListeningSpeaking_Target":"Seattle daily-life conversation and listening comprehension","Preferred_Study_Mode":"Conversational practice","Correction_Preference":"Conversational","Explanation_Language_Preference":"Mixed Chinese/English, more English as comfortable","Voice_Mode_Preference":"Speaking/listening practice with accent and understandability feedback","Notes":"Public outputs should use generic learner labels where possible."},"recent_sessions":[{"SessionID":"SES-20260610-001","SessionDate":"2026-06-10","SessionDateTime":"2026-06-10 00:00","SourceEmailID":"19eb2583f8b07c6f","SessionType":"SaveOnly","DeviceMode":"Unknown","MainFocus":"API sendTutorUpdateEmail operation requested directly","MinutesEstimate":"0","InteractionVolume":"Light","NewVocabCount":0,"AssessmentIncluded":"No","SessionSummary":"No tutoring practice content was provided in this turn. The user requested that the sendTutorUpdateEmail operation be called.","LearnerPerformanceNotes":"No learner performance evidence collected.","NextRecommendedFocus":"Continue with practical English conversation, pronunciation, listening, or daily-life scenario practice.","ProfileUpdateRecommended":"No","CodexProcessingStatus":"Processed","CreatedAt":"2026-06-10 11:26","Notes":"GPT_ENGLISH_TUTOR_UPDATE | 2026-06-10 | 0000 | SaveOnly | save. Direct API operation request, not a tutoring session."}],"vocabulary":[],"grammar":[],"pronunciation":[],"listening_speaking":[],"assessments":[],"review_targets":[],"metadata":{"publisher":"Codex","source_file":"English_Tutor_AI_Database.xlsx","source_file_id":"1s-VvTdO-CAXFV1sFTZvAhc-GVtTnrJU-PWh4b3xIJiI","github_repo":"mattfadich/english-tutor-live-db","json_url":"https://mattfadich.github.io/english-tutor-live-db/tutor-database.json"}}
+{
+  "ok": true,
+  "database_name": "English Tutor AI",
+  "last_updated": "2026-06-12T05:24:52.195639Z",
+  "source": "English_Tutor_AI_Database.xlsx",
+  "profile": {
+    "ProfileID": "PROFILE-001",
+    "LearnerLabel": "learner",
+    "Current_CEFR_Level": "Needs Assessment",
+    "Overall_Progress_Summary": "Initial profile. English ability should be assessed through real interaction before assigning a stable CEFR level.",
+    "Next_Vocab_Target": "Daily life and independence vocabulary",
+    "Next_Pronunciation_Target": "Accent understandability and natural rhythm",
+    "Next_ListeningSpeaking_Target": "Seattle daily-life conversation and listening comprehension",
+    "Preferred_Study_Mode": "Conversational practice",
+    "Correction_Preference": "Conversational",
+    "Explanation_Language_Preference": "Mixed Chinese/English, more English as comfortable",
+    "Voice_Mode_Preference": "Speaking/listening practice with accent and understandability feedback",
+    "Notes": "Public outputs should use generic learner labels where possible."
+  },
+  "recent_sessions": [
+    {
+      "SessionID": "SES-20260610-001",
+      "SessionDate": "2026-06-10",
+      "SessionDateTime": "2026-06-10 00:00",
+      "SourceEmailID": "19eb2583f8b07c6f",
+      "SessionType": "SaveOnly",
+      "DeviceMode": "Unknown",
+      "MainFocus": "API sendTutorUpdateEmail operation requested directly",
+      "MinutesEstimate": "0",
+      "InteractionVolume": "Light",
+      "NewVocabCount": 0,
+      "AssessmentIncluded": "No",
+      "SessionSummary": "No tutoring practice content was provided in this turn. The user requested that the sendTutorUpdateEmail operation be called.",
+      "LearnerPerformanceNotes": "No learner performance evidence collected.",
+      "NextRecommendedFocus": "Continue with practical English conversation, pronunciation, listening, or daily-life scenario practice.",
+      "ProfileUpdateRecommended": "No",
+      "CodexProcessingStatus": "Processed",
+      "CreatedAt": "2026-06-10 11:26",
+      "Notes": "GPT_ENGLISH_TUTOR_UPDATE | 2026-06-10 | 0000 | SaveOnly | save. Direct API operation request, not a tutoring session."
+    }
+  ],
+  "vocabulary": [],
+  "grammar": [],
+  "pronunciation": [],
+  "listening_speaking": [],
+  "assessments": [],
+  "review_targets": [],
+  "metadata": {
+    "publisher": "Codex",
+    "source_file": "English_Tutor_AI_Database.xlsx",
+    "source_file_id": "1s-VvTdO-CAXFV1sFTZvAhc-GVtTnrJU-PWh4b3xIJiI",
+    "github_repo": "mattfadich/english-tutor-live-db",
+    "json_url": "https://mattfadich.github.io/english-tutor-live-db/tutor-database.json"
+  }
+}
